@@ -7,4 +7,17 @@ body{
 }
 .beneficios{
     text-align: left;
+    background-color: aquamarine;
+}
+ul{
+    display: inline block;
+    vertical-align: top;
+    font:25px ;
+    margin: right 400px; ;
+}
+li{
+    padding: 20px;
+}
+.foto-beneficios{
+    width: 40%
 }
