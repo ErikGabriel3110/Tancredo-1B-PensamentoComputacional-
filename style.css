@@ -1,12 +1,13 @@
 body{
+    background: linear-gradient(to left, rgb(53, 184, 207), rgb(206, 116, 218));
      text-align: center;
-    background:#614525 ;
+    background: ;
 }
 .capa{
     width: 100%;
 }
 .beneficios{
-    background:rgb(245, 193, 48);
+    background: (245, 193, 48);
     text-align: left;
 }
 ul{
@@ -19,7 +20,9 @@ li{
     padding: 30px;
 }
 .foto.beneficios{
-    width:  30%;
+    border-radius: 25px;
+    box-shadow:1em 0 0.4em rgb(23, 42, 42);
+    width: 30%;
     
 }
 
